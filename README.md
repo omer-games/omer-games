@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omer</h1>
 <h3 align="center">I am a new developer</h3>
 
-- 🌱 I’m currently learning **C# and Python**
+- 🌱 I’m a **C# and Python** developer
 
 
 <h3 align="left">Languages and Tools:</h3>
